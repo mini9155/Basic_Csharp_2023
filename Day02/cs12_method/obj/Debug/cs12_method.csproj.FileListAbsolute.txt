@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day02\cs12_method\obj\Debug\cs12_method.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day02\cs12_method\obj\Debug\cs12_method.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day02\cs12_method\obj\Debug\cs12_method.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day02\cs12_method\bin\Debug\cs12_method.exe.config
+C:\source\Basic_Csharp_2023\Day02\cs12_method\bin\Debug\cs12_method.exe
+C:\source\Basic_Csharp_2023\Day02\cs12_method\bin\Debug\cs12_method.pdb
+C:\source\Basic_Csharp_2023\Day02\cs12_method\obj\Debug\cs12_method.exe
+C:\source\Basic_Csharp_2023\Day02\cs12_method\obj\Debug\cs12_method.pdb
