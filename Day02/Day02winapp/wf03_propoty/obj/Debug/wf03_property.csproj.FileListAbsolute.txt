@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_property.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_property.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_property.FrmMain.resources
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_propoty.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_property.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_property.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_propoty.exe
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\obj\Debug\wf03_propoty.pdb
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\bin\Debug\wf03_propoty.exe.config
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\bin\Debug\wf03_propoty.exe
+C:\source\Basic_Csharp_2023\Day02\Day02winapp\wf03_propoty\bin\Debug\wf03_propoty.pdb

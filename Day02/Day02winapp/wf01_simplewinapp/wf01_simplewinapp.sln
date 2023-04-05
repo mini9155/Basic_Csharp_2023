@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf01_simplewinapp", "wf01_s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf02_realwinapp", "..\wf02_realwinapp\wf02_realwinapp.csproj", "{EDEFD0ED-C142-4ACE-9A7A-E8A829885E63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf03_propoty", "..\wf03_propoty\wf03_propoty.csproj", "{84D6995A-5E81-4E3F-925E-35D86A1B415C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf03_property", "..\wf03_propoty\wf03_property.csproj", "{84D6995A-5E81-4E3F-925E-35D86A1B415C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

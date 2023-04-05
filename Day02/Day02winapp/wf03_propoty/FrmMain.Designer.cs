@@ -1,4 +1,4 @@
-﻿namespace wf03_propoty
+﻿namespace wf03_property
 {
     partial class FrmMain
     {
@@ -30,116 +30,118 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             this.GbxMain = new System.Windows.Forms.GroupBox();
-            this.Nud1 = new System.Windows.Forms.NumericUpDown();
+            this.NudFontSize = new System.Windows.Forms.NumericUpDown();
             this.label2 = new System.Windows.Forms.Label();
             this.TxtResult = new System.Windows.Forms.TextBox();
-            this.chkbold = new System.Windows.Forms.CheckBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.ChkItalic = new System.Windows.Forms.CheckBox();
+            this.ChkBold = new System.Windows.Forms.CheckBox();
+            this.CboFontFamily = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.chkita = new System.Windows.Forms.CheckBox();
             this.GbxMain.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Nud1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NudFontSize)).BeginInit();
             this.SuspendLayout();
             // 
             // GbxMain
             // 
-            this.GbxMain.Controls.Add(this.chkita);
-            this.GbxMain.Controls.Add(this.Nud1);
+            this.GbxMain.Controls.Add(this.NudFontSize);
             this.GbxMain.Controls.Add(this.label2);
             this.GbxMain.Controls.Add(this.TxtResult);
-            this.GbxMain.Controls.Add(this.chkbold);
-            this.GbxMain.Controls.Add(this.comboBox1);
+            this.GbxMain.Controls.Add(this.ChkItalic);
+            this.GbxMain.Controls.Add(this.ChkBold);
+            this.GbxMain.Controls.Add(this.CboFontFamily);
             this.GbxMain.Controls.Add(this.label1);
             this.GbxMain.Location = new System.Drawing.Point(12, 12);
             this.GbxMain.Name = "GbxMain";
-            this.GbxMain.Size = new System.Drawing.Size(460, 151);
+            this.GbxMain.Size = new System.Drawing.Size(398, 169);
             this.GbxMain.TabIndex = 0;
             this.GbxMain.TabStop = false;
             this.GbxMain.Text = "컨트롤 학습";
-            this.GbxMain.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // Nud1
+            // NudFontSize
             // 
-            this.Nud1.Location = new System.Drawing.Point(66, 60);
-            this.Nud1.Name = "Nud1";
-            this.Nud1.Size = new System.Drawing.Size(120, 21);
-            this.Nud1.TabIndex = 8;
-            this.Nud1.ValueChanged += new System.EventHandler(this.numericUpDown2_ValueChanged);
+            this.NudFontSize.Location = new System.Drawing.Point(94, 54);
+            this.NudFontSize.Name = "NudFontSize";
+            this.NudFontSize.Size = new System.Drawing.Size(120, 21);
+            this.NudFontSize.TabIndex = 4;
+            this.NudFontSize.ValueChanged += new System.EventHandler(this.NudFontSize_ValueChanged);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 60);
+            this.label2.Location = new System.Drawing.Point(25, 56);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 12);
+            this.label2.Size = new System.Drawing.Size(51, 14);
             this.label2.TabIndex = 4;
             this.label2.Text = "글자크기";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // TxtResult
             // 
-            this.TxtResult.Location = new System.Drawing.Point(6, 97);
+            this.TxtResult.Location = new System.Drawing.Point(28, 81);
             this.TxtResult.Multiline = true;
             this.TxtResult.Name = "TxtResult";
-            this.TxtResult.Size = new System.Drawing.Size(316, 38);
-            this.TxtResult.TabIndex = 6;
-            this.TxtResult.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.TxtResult.Size = new System.Drawing.Size(364, 82);
+            this.TxtResult.TabIndex = 5;
             // 
-            // chkbold
+            // ChkItalic
             // 
-            this.chkbold.AutoSize = true;
-            this.chkbold.Location = new System.Drawing.Point(201, 19);
-            this.chkbold.Name = "chkbold";
-            this.chkbold.Size = new System.Drawing.Size(48, 16);
-            this.chkbold.TabIndex = 2;
-            this.chkbold.Text = "볼드";
-            this.chkbold.UseVisualStyleBackColor = true;
-            this.chkbold.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.ChkItalic.AutoSize = true;
+            this.ChkItalic.Location = new System.Drawing.Point(277, 28);
+            this.ChkItalic.Name = "ChkItalic";
+            this.ChkItalic.Size = new System.Drawing.Size(59, 18);
+            this.ChkItalic.TabIndex = 3;
+            this.ChkItalic.Text = "이탤릭";
+            this.ChkItalic.UseVisualStyleBackColor = true;
+            this.ChkItalic.CheckedChanged += new System.EventHandler(this.ChkItalic_CheckedChanged);
             // 
-            // comboBox1
+            // ChkBold
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(65, 16);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 20);
-            this.comboBox1.TabIndex = 1;
+            this.ChkBold.AutoSize = true;
+            this.ChkBold.Location = new System.Drawing.Point(223, 28);
+            this.ChkBold.Name = "ChkBold";
+            this.ChkBold.Size = new System.Drawing.Size(48, 18);
+            this.ChkBold.TabIndex = 2;
+            this.ChkBold.Text = "볼드";
+            this.ChkBold.UseVisualStyleBackColor = true;
+            this.ChkBold.CheckedChanged += new System.EventHandler(this.ChkBold_CheckedChanged);
+            // 
+            // CboFontFamily
+            // 
+            this.CboFontFamily.FormattingEnabled = true;
+            this.CboFontFamily.Location = new System.Drawing.Point(94, 26);
+            this.CboFontFamily.Name = "CboFontFamily";
+            this.CboFontFamily.Size = new System.Drawing.Size(121, 22);
+            this.CboFontFamily.TabIndex = 1;
+            this.CboFontFamily.SelectedIndexChanged += new System.EventHandler(this.CboFontFamily_SelectedIndexChanged);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 20);
+            this.label1.Location = new System.Drawing.Point(25, 29);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 12);
+            this.label1.Size = new System.Drawing.Size(40, 14);
             this.label1.TabIndex = 0;
             this.label1.Text = "글자체";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // chkita
-            // 
-            this.chkita.AutoSize = true;
-            this.chkita.Location = new System.Drawing.Point(256, 18);
-            this.chkita.Name = "chkita";
-            this.chkita.Size = new System.Drawing.Size(60, 16);
-            this.chkita.TabIndex = 10;
-            this.chkita.Text = "이테릭";
-            this.chkita.UseVisualStyleBackColor = true;
             // 
             // FrmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(484, 618);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(422, 589);
             this.Controls.Add(this.GbxMain);
+            this.Font = new System.Drawing.Font("나눔고딕", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FrmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "속성확인";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.FrmMain_Load);
             this.GbxMain.ResumeLayout(false);
             this.GbxMain.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Nud1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.NudFontSize)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -147,13 +149,12 @@
         #endregion
 
         private System.Windows.Forms.GroupBox GbxMain;
-        private System.Windows.Forms.TextBox TxtResult;
-        private System.Windows.Forms.CheckBox chkbold;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.NumericUpDown NudFontSize;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.NumericUpDown Nud1;
-        private System.Windows.Forms.CheckBox chkita;
+        private System.Windows.Forms.TextBox TxtResult;
+        private System.Windows.Forms.CheckBox ChkItalic;
+        private System.Windows.Forms.CheckBox ChkBold;
+        private System.Windows.Forms.ComboBox CboFontFamily;
+        private System.Windows.Forms.Label label1;
     }
 }
-

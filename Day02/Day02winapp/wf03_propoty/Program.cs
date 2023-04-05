@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace wf03_propoty
+namespace wf03_property
 {
     internal static class Program
     {
