@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\bin\Debug\cs14_class_copy.exe.config
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\bin\Debug\cs14_class_copy.exe
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\bin\Debug\cs14_class_copy.pdb
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\obj\Debug\cs14_class_copy.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\obj\Debug\cs14_class_copy.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\obj\Debug\cs14_class_copy.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\obj\Debug\cs14_class_copy.exe
+C:\source\Basic_Csharp_2023\Day03\Day03ConsoleApp\cs14_class_copy\obj\Debug\cs14_class_copy.pdb

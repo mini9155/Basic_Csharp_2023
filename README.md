@@ -9,5 +9,13 @@
 	
 ## 2일차
 - c# 기본
-	- 기본 문법
+	- 기본 문법(변수,메서드, 연산자, 제어)
 - winApp
+	- winFroms vs WPF 개요
+	- winFroms 기초
+## 3일차
+- C# 기본
+	- 클래스
+- win App
+	- winFroms 컨트롤
+	- 리스트뷰, 데이그리드 추가 학습
