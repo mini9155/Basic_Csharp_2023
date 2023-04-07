@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\bin\Debug\cs18_override.exe.config
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\bin\Debug\cs18_override.exe
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\bin\Debug\cs18_override.pdb
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\obj\Debug\cs18_override.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\obj\Debug\cs18_override.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\obj\Debug\cs18_override.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\obj\Debug\cs18_override.exe
+C:\source\Basic_Csharp_2023\Day04\Day04ConsoleApp\cs18_override\obj\Debug\cs18_override.pdb

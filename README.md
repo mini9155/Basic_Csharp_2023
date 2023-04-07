@@ -21,3 +21,11 @@
 	- 리스트뷰, 데이그리드 추가 학습
 <img
 src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day03/console.png">
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+- Win App
+	- winFroms 컨트롤 마무리
+	- winFroms 파일복사 앱
+	- 로그인앱 실습
