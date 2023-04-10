@@ -38,3 +38,5 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day03/console.png">
 - winApp
 	- WinForms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
+<img
+src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/res.png">
