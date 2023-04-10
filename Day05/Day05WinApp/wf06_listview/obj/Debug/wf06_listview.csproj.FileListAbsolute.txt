@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\bin\Debug\wf06_listview.exe.config
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\bin\Debug\wf06_listview.exe
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\bin\Debug\wf06_listview.pdb
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.FrmMain.resources
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.exe
+C:\source\Basic_Csharp_2023\Day05\Day05WinApp\wf06_listview\obj\Debug\wf06_listview.pdb

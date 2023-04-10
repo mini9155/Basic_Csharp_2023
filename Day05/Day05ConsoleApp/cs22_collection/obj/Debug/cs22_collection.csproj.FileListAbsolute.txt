@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\bin\Debug\cs22_collection.exe.config
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\bin\Debug\cs22_collection.exe
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\bin\Debug\cs22_collection.pdb
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\obj\Debug\cs22_collection.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\obj\Debug\cs22_collection.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\obj\Debug\cs22_collection.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\obj\Debug\cs22_collection.exe
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs22_collection\obj\Debug\cs22_collection.pdb

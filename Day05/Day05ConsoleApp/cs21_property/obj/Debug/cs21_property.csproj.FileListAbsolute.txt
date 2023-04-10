@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\bin\Debug\cs21_property.exe.config
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\bin\Debug\cs21_property.exe
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\bin\Debug\cs21_property.pdb
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\obj\Debug\cs21_property.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\obj\Debug\cs21_property.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\obj\Debug\cs21_property.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\obj\Debug\cs21_property.exe
+C:\source\Basic_Csharp_2023\Day05\Day05ConsoleApp\cs21_property\obj\Debug\cs21_property.pdb

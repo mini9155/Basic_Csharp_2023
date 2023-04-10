@@ -33,6 +33,7 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day03/console.png">
 	
 ## 5일차
 - C# 기본
+	- 인터페이스, 추상클래스
 
 - winApp
 	- WinForms 디자인 오류시 해결방법
