@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\bin\Debug\wf07_myexplorer.exe.config
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\bin\Debug\wf07_myexplorer.exe
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\bin\Debug\wf07_myexplorer.pdb
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf08_dbhandlng.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf08_dbhandlng.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf07_myexplorer.FrmExplorer.resources
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf07_myexplorer.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf08_dbhandlng.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf08_dbhandlng.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf07_myexplorer.exe
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_dbhandling\obj\Debug\wf07_myexplorer.pdb

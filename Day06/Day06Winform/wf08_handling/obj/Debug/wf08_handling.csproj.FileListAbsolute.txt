@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\bin\Debug\wf08_handling.exe.config
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\bin\Debug\wf08_handling.exe
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\bin\Debug\wf08_handling.pdb
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.FrmMain.resources
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.exe
+C:\source\Basic_Csharp_2023\Day06\Day06Winform\wf08_handling\obj\Debug\wf08_handling.pdb

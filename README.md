@@ -40,3 +40,23 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day03/console.png">
 	- Window 탐색기 만들기
 <img
 src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/res.png">
+
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화 프로그래밍
+	- 예외처리
+	- 대리자, 이벤트
+	
+- winApp
+	- 탐색기 마무리
+		- 추가 개발 리스트
+		- 컨텍스트 메뉴(마우스 오른쪽 메뉴)
+		- 보호된 운영체제 폴더 숨기기
+		- 리스트뷰 폴더 더블클릭시 하위폴더로
+	- DB핸들링
+	
+## 7일차
+	- BookRentalShop DB 사용 WinForms 앱개발
+	- 실습예제
+	
