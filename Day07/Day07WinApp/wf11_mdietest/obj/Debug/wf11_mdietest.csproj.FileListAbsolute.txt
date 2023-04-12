@@ -1,0 +1,13 @@
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\bin\Debug\wf11_mdietest.exe.config
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\bin\Debug\wf11_mdietest.exe
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\bin\Debug\wf11_mdietest.pdb
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.exe
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.pdb
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.FrmAbout.resources
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.Frmchild2.resources
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\wf11_mdietest\obj\Debug\wf11_mdietest.FrmMain.resources

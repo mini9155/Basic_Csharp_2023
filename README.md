@@ -50,13 +50,19 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 	
 - winApp
 	- 탐색기 마무리
-		- 추가 개발 리스트
+		- 추가 개발 리스트뷰
 		- 컨텍스트 메뉴(마우스 오른쪽 메뉴)
 		- 보호된 운영체제 폴더 숨기기
 		- 리스트뷰 폴더 더블클릭시 하위폴더로
-	- DB핸들링
+		- DB핸들링
+		- 파일핸들링
+		- 더 공부해야할 내용(LINQ,리플랙션)
 	
+
 ## 7일차
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습예제
+	- DB핸들링
+	- 파일핸들링
+	- 더 공부해야할 내용(LINQ,리플랙션)
 	

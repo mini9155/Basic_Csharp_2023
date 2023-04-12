@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\bin\Debug\cs27_delgatechain.exe.config
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\bin\Debug\cs27_delgatechain.exe
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\bin\Debug\cs27_delgatechain.pdb
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\obj\Debug\cs27_delgatechain.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\obj\Debug\cs27_delgatechain.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\obj\Debug\cs27_delgatechain.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\obj\Debug\cs27_delgatechain.exe
+C:\source\Basic_Csharp_2023\Day07\Day07WinApp\cs27_delgatechain\obj\Debug\cs27_delgatechain.pdb

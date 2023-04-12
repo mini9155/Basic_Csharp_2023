@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs28_event", "cs28_event.csproj", "{84D7E55F-677C-4885-A9AD-10EF6B2FC57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs27_delgatechain", "..\cs27_delgatechain\cs27_delgatechain.csproj", "{3074970E-0A2D-4BD6-AFF1-0A5C27BFB68F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FCDE762-84DA-4007-88AF-0C4027D9F648}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D7E55F-677C-4885-A9AD-10EF6B2FC57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D7E55F-677C-4885-A9AD-10EF6B2FC57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D7E55F-677C-4885-A9AD-10EF6B2FC57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D7E55F-677C-4885-A9AD-10EF6B2FC57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3074970E-0A2D-4BD6-AFF1-0A5C27BFB68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3074970E-0A2D-4BD6-AFF1-0A5C27BFB68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3074970E-0A2D-4BD6-AFF1-0A5C27BFB68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3074970E-0A2D-4BD6-AFF1-0A5C27BFB68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145A7464-34A0-4869-8024-D41A96B8361E}
+	EndGlobalSection
+EndGlobal
