@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\bin\Debug\wf12_notepad.exe.config
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\bin\Debug\wf12_notepad.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\bin\Debug\wf12_notepad.pdb
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.FrmMain.resources
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\wf12_notepad\obj\Debug\wf12_notepad.pdb

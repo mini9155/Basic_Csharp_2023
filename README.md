@@ -44,19 +44,13 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 ## 6일차
 - C# 기본
 	- 컬렉션
-	- 일반화 프로그래밍
-	- 예외처리
+	- 람다식
+	- 애트리뷰트
 	- 대리자, 이벤트
 	
 - winApp
-	- 탐색기 마무리
-		- 추가 개발 리스트뷰
-		- 컨텍스트 메뉴(마우스 오른쪽 메뉴)
-		- 보호된 운영체제 폴더 숨기기
-		- 리스트뷰 폴더 더블클릭시 하위폴더로
-		- DB핸들링
-		- 파일핸들링
-		- 더 공부해야할 내용(LINQ,리플랙션)
+	- DB핸들링
+	- SDI vs MDI
 	
 
 ## 7일차
@@ -66,3 +60,12 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 	- 파일핸들링
 	- 더 공부해야할 내용(LINQ,리플랙션)
 	
+## 8일차
+	- C# 기본
+		- 파일 핸들링
+		- 스레드,태스크
+		- 가비지 컬렉션
+
+- WInApp
+	- BookRentalShop DB 사용
+	- 실습예제

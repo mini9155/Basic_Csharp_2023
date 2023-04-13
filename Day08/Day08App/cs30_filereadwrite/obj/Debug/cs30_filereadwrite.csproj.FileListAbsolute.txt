@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\bin\Debug\cs30_filereadwrite.exe.config
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\bin\Debug\cs30_filereadwrite.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\bin\Debug\cs30_filereadwrite.pdb
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\obj\Debug\cs30_filereadwrite.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\obj\Debug\cs30_filereadwrite.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\obj\Debug\cs30_filereadwrite.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\obj\Debug\cs30_filereadwrite.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs30_filereadwrite\obj\Debug\cs30_filereadwrite.pdb

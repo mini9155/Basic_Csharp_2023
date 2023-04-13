@@ -1,0 +1,8 @@
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\bin\Debug\cs29_filehandling.exe.config
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\bin\Debug\cs29_filehandling.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\bin\Debug\cs29_filehandling.pdb
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\obj\Debug\cs29_filehandling.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\obj\Debug\cs29_filehandling.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\obj\Debug\cs29_filehandling.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\obj\Debug\cs29_filehandling.exe
+C:\source\Basic_Csharp_2023\Day08\Day08App\cs29_filehandling\obj\Debug\cs29_filehandling.pdb
