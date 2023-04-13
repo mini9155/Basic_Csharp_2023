@@ -72,4 +72,4 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 	
 심플 메모장
 <img
-src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/res.png">
+src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day08/Day08App/KakaoTalk_20230413_172249504.png">
