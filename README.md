@@ -68,4 +68,8 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 
 - WInApp
 	- BookRentalShop DB 사용
-	- 실습예제
+	- 메모장 만들기
+	
+심플 메모장
+<img
+src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/res.png">
