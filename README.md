@@ -63,13 +63,20 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day05/Day05WinApp/r
 ## 8일차
 	- C# 기본
 		- 파일 핸들링
-		- 스레드,태스크
-		- 가비지 컬렉션
+		- 메모장 만들기
+
 
 - WInApp
 	- BookRentalShop DB 사용
-	- 메모장 만들기
+
 	
 심플 메모장
 <img
 src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day08/Day08App/KakaoTalk_20230413_172249504.png">
+
+## 9일차
+	- C# 기본
+		- 스레드,태스크
+		- 가비지 컬렉션
+	- WInApp
+		- BookRentalShop 만들기 계속

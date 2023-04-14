@@ -1,0 +1,11 @@
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\bin\Debug\wf14_winforms_thread.exe.config
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\bin\Debug\wf14_winforms_thread.exe
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\bin\Debug\wf14_winforms_thread.pdb
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.csproj.AssemblyReference.cache
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.csproj.SuggestedBindingRedirects.cache
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.FrmMain.resources
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.Properties.Resources.resources
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.csproj.GenerateResource.cache
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.csproj.CoreCompileInputs.cache
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.exe
+C:\source\Basic_Csharp_2023\Day09\Day09App\wf14_winforms_thread\obj\Debug\wf14_winforms_thread.pdb
