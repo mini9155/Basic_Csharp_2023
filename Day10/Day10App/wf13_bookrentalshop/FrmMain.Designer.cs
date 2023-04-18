@@ -36,13 +36,16 @@
             this.viewMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.MniGenre = new System.Windows.Forms.ToolStripMenuItem();
             this.MniBookInfo = new System.Windows.Forms.ToolStripMenuItem();
-            this.MniInfo = new System.Windows.Forms.ToolStripMenuItem();
+            this.MniMember = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
             this.MniRental = new System.Windows.Forms.ToolStripMenuItem();
-            this.도움말HToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.Mni1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.helpMenu = new System.Windows.Forms.ToolStripMenuItem();
+            this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.LblUserId = new System.Windows.Forms.ToolStripStatusLabel();
+            this.LblLoginDateTime = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
@@ -52,7 +55,7 @@
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileMenu,
             this.viewMenu,
-            this.도움말HToolStripMenuItem});
+            this.helpMenu});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
@@ -81,7 +84,8 @@
             this.viewMenu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.MniGenre,
             this.MniBookInfo,
-            this.MniInfo,
+            this.MniMember,
+            this.toolStripMenuItem1,
             this.MniRental});
             this.viewMenu.Name = "viewMenu";
             this.viewMenu.Size = new System.Drawing.Size(59, 20);
@@ -89,7 +93,6 @@
             // 
             // MniGenre
             // 
-            this.MniGenre.CheckOnClick = true;
             this.MniGenre.Name = "MniGenre";
             this.MniGenre.Size = new System.Drawing.Size(180, 22);
             this.MniGenre.Text = "책장르관리";
@@ -97,46 +100,49 @@
             // 
             // MniBookInfo
             // 
-            this.MniBookInfo.CheckOnClick = true;
             this.MniBookInfo.Name = "MniBookInfo";
             this.MniBookInfo.Size = new System.Drawing.Size(180, 22);
             this.MniBookInfo.Text = "책정보관리";
             this.MniBookInfo.Click += new System.EventHandler(this.MniBookInfo_Click);
             // 
-            // MniInfo
+            // MniMember
             // 
-            this.MniInfo.Name = "MniInfo";
-            this.MniInfo.Size = new System.Drawing.Size(180, 22);
-            this.MniInfo.Text = "회원관리";
-            this.MniInfo.Click += new System.EventHandler(this.MniInfo_Click);
+            this.MniMember.Name = "MniMember";
+            this.MniMember.Size = new System.Drawing.Size(180, 22);
+            this.MniMember.Text = "회원관리";
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
             // 
             // MniRental
             // 
             this.MniRental.Name = "MniRental";
             this.MniRental.Size = new System.Drawing.Size(180, 22);
             this.MniRental.Text = "대여관리";
-            this.MniRental.Click += new System.EventHandler(this.MniRental_Click);
             // 
-            // 도움말HToolStripMenuItem
+            // helpMenu
             // 
-            this.도움말HToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.Mni1});
-            this.도움말HToolStripMenuItem.Name = "도움말HToolStripMenuItem";
-            this.도움말HToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
-            this.도움말HToolStripMenuItem.Text = "도움말(&H)";
+            this.helpMenu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.aboutToolStripMenuItem});
+            this.helpMenu.Name = "helpMenu";
+            this.helpMenu.Size = new System.Drawing.Size(72, 20);
+            this.helpMenu.Text = "도움말(&H)";
             // 
-            // Mni1
+            // aboutToolStripMenuItem
             // 
-            this.Mni1.Name = "Mni1";
-            this.Mni1.Size = new System.Drawing.Size(114, 22);
-            this.Mni1.Text = "정보(&A)";
-            this.Mni1.Click += new System.EventHandler(this.Mni1_Click);
+            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
+            this.aboutToolStripMenuItem.Text = "정보(&A)... ...";
             // 
             // statusStrip
             // 
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel});
-            this.statusStrip.Location = new System.Drawing.Point(0, 396);
+            this.toolStripStatusLabel,
+            this.LblUserId,
+            this.LblLoginDateTime});
+            this.statusStrip.Location = new System.Drawing.Point(0, 466);
             this.statusStrip.Name = "statusStrip";
             this.statusStrip.Padding = new System.Windows.Forms.Padding(1, 0, 16, 0);
             this.statusStrip.Size = new System.Drawing.Size(737, 22);
@@ -146,21 +152,35 @@
             // toolStripStatusLabel
             // 
             this.toolStripStatusLabel.Name = "toolStripStatusLabel";
-            this.toolStripStatusLabel.Size = new System.Drawing.Size(31, 17);
-            this.toolStripStatusLabel.Text = "상태";
+            this.toolStripStatusLabel.Size = new System.Drawing.Size(94, 17);
+            this.toolStripStatusLabel.Text = "로그인 아이디 : ";
+            // 
+            // LblUserId
+            // 
+            this.LblUserId.Name = "LblUserId";
+            this.LblUserId.Size = new System.Drawing.Size(56, 17);
+            this.LblUserId.Text = "LblUserId";
+            // 
+            // LblLoginDateTime
+            // 
+            this.LblLoginDateTime.Name = "LblLoginDateTime";
+            this.LblLoginDateTime.Size = new System.Drawing.Size(104, 17);
+            this.LblLoginDateTime.Text = "LblLoginDateTime";
             // 
             // FrmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(737, 418);
+            this.ClientSize = new System.Drawing.Size(737, 488);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.menuStrip);
+            this.Font = new System.Drawing.Font("나눔고딕", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip;
-            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "책 대여점";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
             this.Load += new System.EventHandler(this.FrmMain_Load);
@@ -179,17 +199,17 @@
         private System.Windows.Forms.StatusStrip statusStrip;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel;
         private System.Windows.Forms.ToolStripMenuItem viewMenu;
-        private System.Windows.Forms.ToolStripMenuItem MniGenre;
-        private System.Windows.Forms.ToolStripMenuItem MniBookInfo;
         private System.Windows.Forms.ToolTip toolTip;
         private System.Windows.Forms.ToolStripMenuItem fileMenu;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem MniInfo;
+        private System.Windows.Forms.ToolStripMenuItem MniGenre;
+        private System.Windows.Forms.ToolStripMenuItem MniBookInfo;
+        private System.Windows.Forms.ToolStripMenuItem MniMember;
+        private System.Windows.Forms.ToolStripSeparator toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem MniRental;
-        private System.Windows.Forms.ToolStripMenuItem 도움말HToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem Mni1;
+        private System.Windows.Forms.ToolStripMenuItem helpMenu;
+        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
+        private System.Windows.Forms.ToolStripStatusLabel LblUserId;
+        private System.Windows.Forms.ToolStripStatusLabel LblLoginDateTime;
     }
 }
-
-
-

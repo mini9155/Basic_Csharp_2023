@@ -80,3 +80,7 @@ src="https://github.com/mini9155/Basic_Csharp_2023/blob/main/Day08/Day08App/Kaka
 		- 가비지 컬렉션
 	- WInApp
 		- BookRentalShop 만들기 계속
+		
+## 10일차
+	- WInApp
+		- BookRentalShop 종료

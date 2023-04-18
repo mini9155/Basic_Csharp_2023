@@ -1,0 +1,16 @@
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\bin\Debug\number_5_app.exe.config
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\bin\Debug\number_5_app.exe
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\bin\Debug\number_5_app.pdb
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\obj\Debug\number_5_app.csproj.AssemblyReference.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\obj\Debug\number_5_app.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\obj\Debug\number_5_app.csproj.CoreCompileInputs.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\obj\Debug\number_5_app.exe
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_5_app\obj\Debug\number_5_app.pdb
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\bin\Debug\number_5_app.exe.config
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\bin\Debug\number_5_app.exe
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\bin\Debug\number_5_app.pdb
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\obj\Debug\number_5_app.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\obj\Debug\number_5_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\obj\Debug\number_5_app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\obj\Debug\number_5_app.exe
+C:\Users\user\Desktop\Cod\CodingTest_홍길동\number_5_app\obj\Debug\number_5_app.pdb

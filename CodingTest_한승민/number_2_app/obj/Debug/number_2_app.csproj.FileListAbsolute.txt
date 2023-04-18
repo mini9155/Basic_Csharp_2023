@@ -1,0 +1,8 @@
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\bin\Debug\number_2_app.exe.config
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\bin\Debug\number_2_app.exe
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\bin\Debug\number_2_app.pdb
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\obj\Debug\number_2_app.csproj.AssemblyReference.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\obj\Debug\number_2_app.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\obj\Debug\number_2_app.csproj.CoreCompileInputs.cache
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\obj\Debug\number_2_app.exe
+C:\Source\basic-CSharp-2023\Day10\CodingTest\number_2_app\obj\Debug\number_2_app.pdb
